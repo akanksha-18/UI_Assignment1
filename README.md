@@ -15,4 +15,6 @@
 - Adjust width to 300 pixels.
 ### Access the Live Version:
 https://akanksha-18.github.io/UI_Assignment1/
+### Viewing the Project:
+- Open the provided link in any web browser.
 
